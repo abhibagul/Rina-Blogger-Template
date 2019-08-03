@@ -6,7 +6,7 @@ Rina is one of the most simple and powerful magazine template for blogger.It is 
 
 				<div dir="ltr" style="text-align: left;" trbidi="on">
 <div class="separator" style="clear: both; text-align: center;">
-<img src="https://3.bp.blogspot.com/-FQRd4bVy7jc/WtjwukUOAoI/AAAAAAAABPU/hXjT3f4_7nsJOnpQ65IwF8BW8LeqXk1dgCLcBGAs/s1600/doc-compressed.jpg" style="display:none;" width="100%"></div>
+<img src="https://3.bp.blogspot.com/-IZcMJKl1d9Q/Wu3F8E1tjSI/AAAAAAAABXc/d73UxZVEbzsDl2hFBNOTHYHLUdJy4cekwCLcBGAs/s1600/rina%2Bhero-compressed.jpg" style="display:none;" width="100%"></div>
 <style>h3.demo{font-weight:600;font-size: 26px;margin-top:50px;}</style>
 <h3 class="demo">
 Summery</h3>
